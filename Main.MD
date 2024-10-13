@@ -1,0 +1,6 @@
+- [Multi-gitter](https://github.com/lindell/multi-gitter)
+  - Programmaticly apply changes to multiple repos.
+- [Kompose](https://github.com/kubernetes/kompose)
+  - Convert docker compose files to kube resources.
+- [kubectl-neat](https://github.com/itaysk/kubectl-neat)
+  - Remove clutter from Kubernetes manifests to make them more readable.
